@@ -1,0 +1,25 @@
+﻿Cohesion --
+1. If class has memebers having relationship with there class methods / fields  it can be kept in 1 class highly cohesive
+property or feild which has very less relationship or dependent / used can be kept in another class (High cohisive is good)
+
+2. If we seprate Entites which are less dependent on each other into another class then it has loose coupling (loose coupling is good).
+
+3 . If details are added tommorow of less dependent enities then if they are clubed into same class it becomes difficult so separation of class is good that loose
+coupling new details can be added easily
+
+Author affiliations: Division of High-Consequence Pathogens and Pathology, Centers for Disease Control and Prevention, Atlanta, Georgia (Elizabeth R. Unger, Jin-Mann S. Lin, Hao Tian, Mangalathu S. Rajeevan); Department of Neurology, Mount Sinai Beth Israel, New York, New York (Benjamin H. Natelson, Gudrun Lange, Diana Vu, Michelle Blate); Institute for Neuro Immune Medicine, Nova Southeastern University, Fort Lauderdale, Florida (Nancy G. Klimas, Elizabeth G. Balbin); Bateman Horne Center, Salt Lake City, Utah (Lucinda Bateman, Ali Allen); Hunter-Hopkins Center, Charlotte, North Carolina (Charles W. Lapp, Wendy Springs); Open Medicine Clinic, Mountain View, California (Andreas M. Kogelnik, Catrina C. Phan, Joan Danver); Richard N. Podell Medical, Summit, New Jersey (Richard N. Podell, Trisha Fitzpatrick); and Sierra Internal Medicine, Incline Village, Nevada (Daniel L. Peterson, C. Gunnar Gottschalk).
+
+ that you will see on a regular basis.
+
+The follow is a list of common .NET exceptions:
+
+System.NullReferenceException – Very common exception related to calling a method on a null object reference
+System.IndexOutOfRangeException – Occurs attempting to access an array element that does not exist
+System.IO.IOException – Used around many file I/O type operations
+System.Net.WebException – Commonly thrown around any errors performing HTTP calls
+System.Data.SqlClient.SqlException – Various types of SQL Server exceptions
+System.StackOverflowException – If a method calls itself recursively, you may get this exception
+System.OutOfMemoryException – If your app runs out of memory
+System.InvalidCastException – If you try to cast an object to a type that it can’t be cast to
+System.InvalidOperationException – Common generic exception in a lot of libraries
+System.ObjectDisposedException – Trying to use an object that has already been disposed

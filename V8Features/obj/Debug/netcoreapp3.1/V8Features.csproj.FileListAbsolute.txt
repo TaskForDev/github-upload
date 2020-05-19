@@ -1,0 +1,13 @@
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.exe
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.deps.json
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.runtimeconfig.json
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.runtimeconfig.dev.json
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.dll
+C:\Users\hemant\source\repos\V8Features\V8Features\bin\Debug\netcoreapp3.1\V8Features.pdb
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.csprojAssemblyReference.cache
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.AssemblyInfoInputs.cache
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.AssemblyInfo.cs
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.dll
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.pdb
+C:\Users\hemant\source\repos\V8Features\V8Features\obj\Debug\netcoreapp3.1\V8Features.genruntimeconfig.cache

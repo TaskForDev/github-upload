@@ -1,0 +1,15 @@
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
+C:\Users\hemant\source\repos\V8Features\SOLID\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\V8Features\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CopyComplete

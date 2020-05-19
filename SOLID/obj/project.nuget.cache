@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFYnGYVmuEA3wAgW+PrAjFAf60ROsbQCUZBY8qx8LpgMHZ/jpODDcFu2Ujx1leWl2VJqtyeORSvMudBdUknAMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hemant\\source\\repos\\V8Features\\SOLID\\SOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hemant\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\hemant\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
